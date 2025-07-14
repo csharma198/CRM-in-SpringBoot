@@ -1,0 +1,40 @@
+# Build output
+/target/
+build/
+
+# IDEs and editor folders
+.idea/
+.vscode/
+.settings/
+.project
+.classpath
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Node modules (for Vaadin)
+node_modules/
+frontend/generated/
+pnpmfile.js
+vite.generated.ts
+webpack.generated.js
+
+# Vaadin TestBench outputs
+drivers/
+error-screenshots/
+
+# Logs
+*.log
+
+# Java compiled class files
+*.class
+
+# Temporary files
+*.tmp
+*.swp
+
+# Environment files (if you use)
+.env
+.env.*

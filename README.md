@@ -1,1 +1,3 @@
-# CRM-in-SpringBoot
+# CRM in Spring Boot
+
+A Customer Relationship Management system built using Spring Boot...
